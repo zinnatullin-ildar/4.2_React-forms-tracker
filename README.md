@@ -4,7 +4,7 @@
 
 Общий интерфейс должен выглядеть следующим образом:
 
-![Steps](https://github.com/netology-code/ra16-homeworks/raw/master/forms/steps/assets/steps.png)
+![Steps](https://github.com/netology-code/ra16-homeworks/blob/master/forms/steps/assets/steps.png)
 
 ## Добавление данных
 
